@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jscscheper
-- 👀 I’m interested in genetics and machine learning
+- 👀 I’m interested in genetics, machine learning, and Python
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me jamiecscheper@gmail.com
