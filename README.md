@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me jamiecscheper@gmail.com
 - Married to @djscheper
+- MSc Boston
 
 <!---
 jscscheper/jscscheper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
