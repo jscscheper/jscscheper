@@ -3,7 +3,7 @@
 ### 🧬 Bioinformatics Scientist | Data Scientist | Developer
 I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Sciences, passionate about bridging the gap between biological data and actionable insights. I specialize in building reproducible pipelines, analyzing complex genomic datasets, and developing full-stack applications for scientific data visualization.
 ** Current Status:** actively seeking employment opportunities in Bioinformatics, Data Science, or Software Engineering.
----
+
 ## Connect with Me
 <p align="left">
 <a href="mailto:jscscheper@gmail.com">
@@ -13,7 +13,7 @@ I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Scienc
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 </p>
----
+
 ## 🛠️ Tech Stack & Tools
 ### 🧬 Bioinformatics & Genomics
 ![DESeq2](https://img.shields.io/badge/DESeq2-Analyze-008CBA?style=for-the-badge)
@@ -61,7 +61,7 @@ I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Scienc
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
----
+
 ## 🏆 Featured Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
