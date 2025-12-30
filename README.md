@@ -3,7 +3,7 @@
 ### 🧬 Bioinformatics Scientist | Data Scientist | Developer
 I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Sciences, passionate about bridging the gap between biological data and actionable insights. I specialize in building reproducible pipelines, analyzing complex genomic datasets, and developing full-stack applications for scientific data visualization.
 
-** Current Status:** actively seeking employment opportunities in Bioinformatics, Data Science, or Software Engineering.
+**Current Status:** actively seeking employment opportunities in Bioinformatics, Data Science, or Software Engineering.
 
 ## Connect with Me
 <p align="left">
