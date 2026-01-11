@@ -1,7 +1,7 @@
 # Hi there, I'm Jamie Scheper! 👋
 
 ### 🧬 Bioinformatics Scientist | Data Scientist | Developer
-I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Sciences, passionate about bridging the gap between biological data and actionable insights. I specialize in building reproducible pipelines, analyzing complex genomic datasets, and developing full-stack applications for scientific data visualization.
+I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Sciences, passionate about bridging the gap between biological data and insights. I specialize in building reproducible pipelines, analyzing complex genomic datasets, and developing full-stack applications for scientific data visualization.
 
 **Current Status:** actively seeking employment opportunities in Bioinformatics, Data Science, or Software Engineering.
 
@@ -66,9 +66,8 @@ I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Scienc
 ## 🏆 Featured Projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[CDSnake](https://github.com/jscscheper/cdsnake)** | Modern reproducible 16S amplicon processing pipeline | `Snakemake` `Python` `Bioinformatics` |
 | **[DEApp](https://github.com/jscscheper/deapp)** | Full-stack RNA-seq differential expression platform | `Flask` `React` `Docker` `R` |
-| **[Mitochondria Dysfunction](https://github.com/jscscheper/internship-acutelines)** | Early sepsis detection using ML & gene expression | `R` `Machine Learning` `DESeq2` |
+| **[Mitochondria Dysfunction](https://github.com/jscscheper/internship-acutelines)** | Internship at Acutelines on early sepsis detection using ML & gene expression | `R` `Machine Learning` `DESeq2` |
 | **[Neural Network Lib](https://github.com/jscscheper/neural-network)** | Custom ML library built from scratch (Perceptrons to MLPs) | `Python` `NumPy` `Educational` |
 ---
 <p align="center">
