@@ -11,15 +11,18 @@ Current Status: actively seeking employment opportunities in bioinformatics, dat
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jscscheper.github.io-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://jscscheper.github.io)
-
 ## Tech stack & tools
 
 ### Bioinformatics & genomics
 ![DESeq2](https://img.shields.io/badge/DESeq2-Analyze-008CBA?style=for-the-badge)
 ![edgeR](https://img.shields.io/badge/edgeR-Expression-008CBA?style=for-the-badge)
+![GSEA](https://img.shields.io/badge/GSEA-Enrichment-008CBA?style=for-the-badge)
+![Seurat](https://img.shields.io/badge/Seurat-scRNA--seq-008CBA?style=for-the-badge)
+![DIABLO](https://img.shields.io/badge/DIABLO-mixOmics-008CBA?style=for-the-badge)
 ![Biopython](https://img.shields.io/badge/Biopython-Enabled-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bioconductor](https://img.shields.io/badge/Bioconductor-3.18-008CBA?style=for-the-badge&logo=r&logoColor=white)
-![Snakemake](https://img.shields.io/badge/Snakemake-Workflow-005F60?style=for-the-badge)
+![BWA](https://img.shields.io/badge/BWA-Alignment-555555?style=for-the-badge)
+![STAR](https://img.shields.io/badge/STAR-Alignment-555555?style=for-the-badge)
 ![Samtools](https://img.shields.io/badge/Samtools-Processing-555555?style=for-the-badge)
 ![Bcftools](https://img.shields.io/badge/Bcftools-Variants-555555?style=for-the-badge)
 ![Bedtools](https://img.shields.io/badge/Bedtools-Genomics-555555?style=for-the-badge)
@@ -52,16 +55,27 @@ Current Status: actively seeking employment opportunities in bioinformatics, dat
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![REST_API](https://img.shields.io/badge/REST-APIs-555555?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-ORM-DB2B1F?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### DevOps & infrastructure
+### Pipelines & reproducibility
+![Snakemake](https://img.shields.io/badge/Snakemake-Workflow-005F60?style=for-the-badge)
+![Nextflow](https://img.shields.io/badge/Nextflow-Workflow-0DC09D?style=for-the-badge&logo=nextflow&logoColor=white)
+![nf-core](https://img.shields.io/badge/nf--core-Pipelines-0DC09D?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Singularity](https://img.shields.io/badge/Singularity-Containers-555555?style=for-the-badge)
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Mamba](https://img.shields.io/badge/Mamba-Fast_Envs-44A833?style=for-the-badge)
+
+### DevOps & infrastructure
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20EC2%20%7C%20Lambda-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
