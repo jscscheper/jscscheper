@@ -1,21 +1,19 @@
 # Hi there, I'm Jamie Scheper! 👋
 
 ### 🧬 Bioinformatics Scientist | Data Scientist | Developer
+
 I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Sciences, passionate about bridging the gap between biological data and insights. I specialize in building reproducible pipelines, analyzing complex genomic datasets, and developing full-stack applications for scientific data visualization.
 
 Current Status: actively seeking employment opportunities in bioinformatics, data science, or software engineering.
 
 ## Connect with Me
-<p align="left">
-<a href="mailto:jscscheper@gmail.com">
-  <img src="https://img.shields.io/badge/Email-jscscheper%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/dennis-scheper/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-</p>
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jscscheper.github.io-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://jscscheper.github.io)
 
 ## Tech stack & tools
+
 ### Bioinformatics & genomics
 ![DESeq2](https://img.shields.io/badge/DESeq2-Analyze-008CBA?style=for-the-badge)
 ![edgeR](https://img.shields.io/badge/edgeR-Expression-008CBA?style=for-the-badge)
@@ -31,6 +29,7 @@ Current Status: actively seeking employment opportunities in bioinformatics, dat
 ![IGV](https://img.shields.io/badge/IGV-Visualization-555555?style=for-the-badge)
 ![Galaxy](https://img.shields.io/badge/Galaxy-Platform-2C3143?style=for-the-badge&logo=galaxy&logoColor=white)
 ![Pathview](https://img.shields.io/badge/Pathview-Pathways-green?style=for-the-badge)
+
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -39,6 +38,7 @@ Current Status: actively seeking employment opportunities in bioinformatics, dat
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 ### Data science & machine learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -47,14 +47,16 @@ Current Status: actively seeking employment opportunities in bioinformatics, dat
 ![Weka](https://img.shields.io/badge/Weka-Data_Mining-orange?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+
 ### Web development
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 ### DevOps & infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -64,13 +66,9 @@ Current Status: actively seeking employment opportunities in bioinformatics, dat
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
 ## Featured projects
+
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[DEApp](https://github.com/jscscheper/deapp)** | Full-stack RNA-seq differential expression platform | `Flask` `React` `Docker` `R` |
 | **[Mitochondria Dysfunction](https://github.com/jscscheper/internship-acutelines)** | Internship at Acutelines on early sepsis detection using ML & gene expression | `R` `Machine Learning` `DESeq2` |
 | **[Neural Network Lib](https://github.com/jscscheper/neural-network)** | Custom ML library built from scratch (Perceptrons to MLPs) | `Python` `NumPy` `Educational` |
----
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jscscheper&show_icons=true&theme=gotham&count_private=true" alt="Jamie's GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jscscheper&layout=compact&theme=gotham&count_private=true" alt="Top Languages" />
-</p>
