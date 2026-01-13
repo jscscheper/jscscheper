@@ -8,8 +8,8 @@ Current Status: actively seeking employment opportunities in bioinformatics, dat
 
 ## Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL_HERE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL_HERE)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jscscheper@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamie-scheper/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jscscheper.github.io-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://jscscheper.github.io)
 ## Tech stack & tools
 
