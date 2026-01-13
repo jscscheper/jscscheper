@@ -3,7 +3,7 @@
 ### 🧬 Bioinformatics Scientist | Data Scientist | Developer
 I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Sciences, passionate about bridging the gap between biological data and insights. I specialize in building reproducible pipelines, analyzing complex genomic datasets, and developing full-stack applications for scientific data visualization.
 
-**Current Status:** actively seeking employment opportunities in Bioinformatics, Data Science, or Software Engineering.
+Current Status: actively seeking employment opportunities in bioinformatics, data science, or software engineering.
 
 ## Connect with Me
 <p align="left">
@@ -15,8 +15,8 @@ I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Scienc
 </a>
 </p>
 
-## 🛠️ Tech Stack & Tools
-### 🧬 Bioinformatics & Genomics
+## Tech stack & tools
+### Bioinformatics & genomics
 ![DESeq2](https://img.shields.io/badge/DESeq2-Analyze-008CBA?style=for-the-badge)
 ![edgeR](https://img.shields.io/badge/edgeR-Expression-008CBA?style=for-the-badge)
 ![Biopython](https://img.shields.io/badge/Biopython-Enabled-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -31,7 +31,7 @@ I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Scienc
 ![IGV](https://img.shields.io/badge/IGV-Visualization-555555?style=for-the-badge)
 ![Galaxy](https://img.shields.io/badge/Galaxy-Platform-2C3143?style=for-the-badge&logo=galaxy&logoColor=white)
 ![Pathview](https://img.shields.io/badge/Pathview-Pathways-green?style=for-the-badge)
-### 💻 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -39,7 +39,7 @@ I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Scienc
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-### 🧠 Data Science & Machine Learning
+### Data science & machine learning
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -47,7 +47,7 @@ I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Scienc
 ![Weka](https://img.shields.io/badge/Weka-Data_Mining-orange?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
-### 🌐 Web Development
+### Web development
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -55,7 +55,7 @@ I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Scienc
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-### 🛠️ DevOps & Infrastructure
+### DevOps & infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -63,7 +63,7 @@ I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Scienc
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 
-## 🏆 Featured Projects
+## Featured projects
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[DEApp](https://github.com/jscscheper/deapp)** | Full-stack RNA-seq differential expression platform | `Flask` `React` `Docker` `R` |
