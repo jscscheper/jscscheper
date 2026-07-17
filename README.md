@@ -2,9 +2,7 @@
 
 ### 🧬 Bioinformatics Scientist | Data Scientist | Developer
 
-I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Sciences who also ships software. I’ve worked with RNA-seq and multi-omics data in real research settings at UMCG (sepsis transcriptomics, multi-omics integration, biomarker discovery), and I build the tooling around it: reproducible pipelines (Snakemake, Nextflow/nf-core, Docker) and full-stack apps (Flask + React, REST APIs, SQL) that let researchers run analyses and explore results without living in the terminal. I like products that remove friction: reliable backends, clean data models, and frontends that make complex science feel straightforward. Looking for roles where I can do bioinformatics and/or software engineering to build things that people actually use.
-
-Current Status: actively seeking employment opportunities in bioinformatics, data science, or software engineering.
+I'm a Bioinformatics graduate with a BSc from Hanze University of Applied Sciences who also ships software. I’ve worked with RNA-seq and multi-omics data in real research settings at UMCG (sepsis transcriptomics, multi-omics integration, biomarker discovery), and I build the tooling around it: reproducible pipelines (Snakemake, Nextflow/nf-core, Docker) and full-stack apps (Flask + React, REST APIs, SQL) that let researchers run analyses and explore results without living in the terminal.
 
 ## Connect with Me
 
